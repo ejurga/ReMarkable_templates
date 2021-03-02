@@ -1,0 +1,30 @@
+{
+  "name": "Daily Bullet",
+  "filename": "daily_bullet",
+  "iconCode": "\ue9d1",
+  "landscape": false,
+  "categories": [
+	"Custom",
+	"Life/organize"
+  ]
+},
+{
+  "name": "Weekly Timeblocks",
+  "filename": "weekly_timeblocks",
+  "iconCode": "\ue9ce",
+  "landscape": true,
+  "categories": [
+	"Custom",
+	"Life/organize"
+  ]
+},
+{
+  "name": "Calendar",
+  "filename": "calendar",
+  "iconCode": "\ue9fc",
+  "landscape": true,
+  "categories": [
+	"Custom",
+	"Life/organize"
+  ]
+},
